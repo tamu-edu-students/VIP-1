@@ -1,7 +1,7 @@
 # VIP-1
 VIP 1
 
-Below is from zybooks, with some minor editing from Niki. This is written using markdown and [a basic guide to the syntax is here](https://www.markdownguide.org/basic-syntax/). You can edit this or view the raw file to see all of the editing syntax I used. In general, use one star `*` for italics, two `**` for bold, and three ticks <code>```</code> for multiline code blocks. You can also use html for tricky formatting things. If you need help, just ask!
+Below is from zybooks, with some minor editing from Niki. This is written using markdown and [a basic guide to the syntax is here](https://www.markdownguide.org/basic-syntax/). You can edit this or view the raw file to see all of the editing syntax I used. In general, use one star `*` for italics, two `**` for bold, and three ticks <code>```</code> for multiline code blocks. You can also use html for tricky formatting things. If you need help, just ask! [Here is a link to an ENGR 102 lab for inspiration in formatting](https://github.com/tamu-edu-students/engr-102-lab-11-individual).
 
 1A Hello world
 
